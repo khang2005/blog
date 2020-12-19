@@ -3,4 +3,4 @@
 Email: Khangtran082005@gmail.com
 
 
-Website: [Khang Duy Tran](https://www.khangduytran.xyz)
+Website: [khangduytran.xyz](https://www.khangduytran.xyz)
