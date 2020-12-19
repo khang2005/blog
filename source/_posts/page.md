@@ -1,13 +1,13 @@
 ---
-title: page
+title: Vagrant cheatsheet
 date: 2020-12-17 17:47:54
 tags:
 ---
-{% blockquote Vagrant%}
-Purpose: Ability to lowers development environment setup time, and increase production parity. 
+{% blockquote Vagrant sample %}
+Ability to lowers development environment setup time, and increase production parity. 
 {% endblockquote %}
 
-{% Codeblock %}
+{% codeblock %}
 Vagrant //show available command
 vagrant up
 vagrant destroy
